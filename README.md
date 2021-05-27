@@ -4,8 +4,8 @@
 
 > status: concluido ✔️
 
-> Funcionalidades:
-> Dark Mode
-> Agendamento de evento
-> Deletar eventos ja existentes
-> Navegar pelos mêses anteriores e posteriores
+> Funcionalidades: </br>
+> Dark Mode </br>
+> Agendamento de evento </br>
+> Deletar eventos ja existentes </br>
+> Navegar pelos mêses anteriores e posteriores </br>
